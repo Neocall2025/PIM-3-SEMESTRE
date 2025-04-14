@@ -22,3 +22,13 @@ Para construir esse sistema, estamos aplicando conhecimentos de diversas áreas,
 - Economia e Mercado – Para tornar o projeto viável e competitivo;
 - Gestão Estratégica de Recursos Humanos – Para estruturar um time produtivo e bem coordenado;
 
+## Desenvolvimento Ágil do Projeto (SCRUM) ##
+
+![Visual do Sistema](Grey%20Black%20Minimalist%20Elegant%20Calendar%20Planner%20Presentation.png)
+
+
+## Integrantes do projeto ##
+- Fábio Afonso Farias Cavalcante
+- Gabriel Freitas de Campos
+- Igor Oliveira Marcondes
+- Pedro Henrique do Amaral Palma

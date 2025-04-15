@@ -24,7 +24,8 @@ Para construir esse sistema, estamos aplicando conhecimentos de diversas áreas,
 
 ## Desenvolvimento Ágil do Projeto (SCRUM) ##
 
-[![Visual do Sistema](Grey%20Black%20Minimalist%20Elegant%20Calendar%20Planner%20Presentation.png)](SPRINTS.md)
+[![Visual do Sistema](https://github.com/usuario/repositorio/raw/main/Grey%20Black%20Minimalist%20Elegant%20Calendar%20Planner%20Presentation.png)](SPRINTS.md)
+
 
 
 

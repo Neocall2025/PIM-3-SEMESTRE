@@ -1,4 +1,4 @@
-## Bem-vindo à Nossa Empresa! 🚀 ##
+## Bem-vindo à Nossa Empresa! ##
 Somos um grupo de estudantes da UNIP com uma missão clara: transformar o suporte técnico por meio da inteligência artificial. Acreditamos que a tecnologia pode facilitar a vida das empresas e otimizar processos, tornando o atendimento mais rápido, eficiente e acessível.
 
 ## Nosso Projeto ##

@@ -23,8 +23,8 @@ Para construir esse sistema, estamos aplicando conhecimentos de diversas áreas,
 - Gestão Estratégica de Recursos Humanos – Para estruturar um time produtivo e bem coordenado;
 
 ## Desenvolvimento Ágil do Projeto (SCRUM) ##
+[![Visual do Sistema](https://raw.githubusercontent.com/Neocall2025/PIM-3-SEMESTRE/main/sprints.png)](https://raw.githubusercontent.com/Neocall2025/PIM-3-SEMESTRE/main/SPRINTS.md)
 
-![Visual do Sistema](https://raw.githubusercontent.com/Neocall2025/PIM-3-SEMESTRE/main/sprints.png) (SPRINTS.md)
 
 ## Integrantes do projeto ##
 - Fábio Afonso Farias Cavalcante

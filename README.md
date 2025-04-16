@@ -24,7 +24,7 @@ Para construir esse sistema, estamos aplicando conhecimentos de diversas áreas,
 
 ## Desenvolvimento Ágil do Projeto (SCRUM) ##
 
-![Visual do Sistema](https://raw.githubusercontent.com/Neocall2025/PIM-3-SEMESTRE/main/sprints.png)
+![Visual do Sistema](https://raw.githubusercontent.com/Neocall2025/PIM-3-SEMESTRE/main/sprints.png) (SPRINTS.md)
 
 ## Integrantes do projeto ##
 - Fábio Afonso Farias Cavalcante

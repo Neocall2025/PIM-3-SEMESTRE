@@ -26,11 +26,6 @@ Para construir esse sistema, estamos aplicando conhecimentos de diversas áreas,
 
 [![Visual do Sistema](https://github.com/Neocall2025/PIM-3-SEMESTRE/raw/main/Grey%20Black%20Minimalist%20Elegant%20Calendar%20Planner%20Presentation.png)](https://github.com/Neocall2025/PIM-3-SEMESTRE/blob/main/SPRINTS.md)
 
-
-
-
-
-
 ## Integrantes do projeto ##
 - Fábio Afonso Farias Cavalcante
 - Gabriel Freitas de Campos

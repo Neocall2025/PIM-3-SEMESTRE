@@ -51,5 +51,23 @@ Selecionar as tecnologias que serão usadas no desenvolvimento do sistema.
 **📝 Atividades:**
 - Escolher a linguagem de programação para o back-end (ex: Python).
 - Escolher a tecnologia para o front-end (ex: React.js).
+
+## 🖼️ Sprint 5 – Desenho das Telas e Organização do Sistema ##
+**🎯 Objetivo: **
+Começar a imaginar como o sistema vai ser por fora (telas) e por dentro (estrutura).
+
+** 📝 Atividades: **
+
+Fazer desenhos das telas principais (rascunhos ou no Figma, por exemplo).
+
+Pensar em como o sistema vai funcionar por dentro (divisão em partes).
+
+Montar um esquema do banco de dados (quais tabelas vão existir).
+
+Ajustar os diagramas com base nessas decisões.
+
+Mostrar os desenhos pro grupo e ver o que pode melhorar.
+
+
 - Selecionar o banco de dados mais adequado (ex: PostgreSQL e/ou MongoDB).
 - Garantir que todas as tecnologias estejam documentadas e justificadas para o grupo.

@@ -27,7 +27,7 @@ Para construir esse sistema, estamos aplicando conhecimentos de diversas áreas,
 
 
 ## Integrantes do projeto ##
-- Fábio Afonso Farias Cavalcante
-- Gabriel Freitas de Campos
+- Fábio Afonso Farias Cavalcante (SCRUM MASTER)
+- Gabriel Freitas de Campos (PRODUCT OWNER)
 - Igor Oliveira Marcondes
 - Pedro Henrique do Amaral Palma

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<astah projectVersion="7.8.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://astah.net/schema/astahproject_2.0.xsd">
+  <model>
+    <diagrams>
+      <diagram id="diagram1" type="DeploymentDiagram" name="Diagrama de Implantação - Sistema de Suporte Técnico" x="0" y="0" width="800" height="600"/>
+    </diagrams>
+    <packages>
+      <package id="package1" name="Deployment Model" x="10" y="10" width="780" height="580" diagram-id="diagram1">
+        <nodes>
+          <node id="node1" name="Estação do Colaborador" stereotype="Node" x="50" y="100" width="140" height="80" container-id="package1">
+            <documentation>Dispositivo do colaborador para acessar o sistema de suporte.</documentation>
+          </node>
+          <node id="node2" name="Servidor de Aplicação Web" stereotype="Node" x="300" y="100" width="160" height="100" container-id="package1">
+            <documentation>Hospeda o sistema integrado de registro de solicitações e AI para atendimento.</documentation>
+            <artifacts>
+              <artifact id="artifact1" name="SistemaSuporteApp.war" stereotype="Artifact" x="310" y="130" width="120" height="40" container-id="node2">
+                <documentation>Aplicação web que permite registro das solicitações e suporte automatizado.</documentation>
+              </artifact>
+            </artifacts>
+          </node>
+          <node id="node3" name="Servidor de Banco de Dados" stereotype="Node" x="550" y="120" width="160" height="80" container-id="package1">
+            <documentation>Banco de dados contendo histórico dos chamados, usuários, e configurações.</documentation>
+            <artifacts>
+              <artifact id="artifact2" name="ChamadosDB" stereotype="Artifact" x="560" y="150" width="120" height="40" container-id="node3">
+                <documentation>BD relacional para armazenar as informações dos chamados e histórico.</documentation>
+              </artifact>
+            </artifacts>
+          </node>
+        </nodes>
+        <communicationPaths>
+          <communicationPath id="cp1" source="node1" target="node2">
+            <documentation>Rede local/internet para acesso ao servidor web.</documentation>
+          </communicationPath>
+          <communicationPath id="cp2" source="node2" target="node3">
+            <documentation>Conexão dedicada entre servidor web e banco de dados.</documentation>
+          </communicationPath>
+        </communicationPaths>
+      </package>
+    </packages>
+  </model>
+</astah>
